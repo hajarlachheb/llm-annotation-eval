@@ -1,0 +1,170 @@
+{
+  "error_predictors": [
+    [
+      "quality use",
+      0.6247
+    ],
+    [
+      "bad recommend",
+      0.5617
+    ],
+    [
+      "disappointing needs",
+      0.5548
+    ],
+    [
+      "documentation recommend",
+      0.5346
+    ],
+    [
+      "competitor needs",
+      0.437
+    ],
+    [
+      "week sure",
+      0.4283
+    ],
+    [
+      "slow disappointed",
+      0.3807
+    ],
+    [
+      "disappointing sure",
+      0.3572
+    ],
+    [
+      "best tool",
+      0.3525
+    ],
+    [
+      "hands best",
+      0.3525
+    ],
+    [
+      "used",
+      0.3525
+    ],
+    [
+      "used year",
+      0.3525
+    ],
+    [
+      "tool ve",
+      0.3525
+    ],
+    [
+      "ve used",
+      0.3525
+    ],
+    [
+      "tool",
+      0.3525
+    ],
+    [
+      "year",
+      0.3525
+    ],
+    [
+      "hands",
+      0.3525
+    ],
+    [
+      "best",
+      0.3525
+    ],
+    [
+      "year disappointed",
+      0.3297
+    ],
+    [
+      "week use",
+      0.313
+    ]
+  ],
+  "correct_predictors": [
+    [
+      "satisfied",
+      -0.3531
+    ],
+    [
+      "overall",
+      -0.3531
+    ],
+    [
+      "overall satisfied",
+      -0.3531
+    ],
+    [
+      "disappointed",
+      -0.3278
+    ],
+    [
+      "disappointing disappointed",
+      -0.3186
+    ],
+    [
+      "absolutely loved",
+      -0.3149
+    ],
+    [
+      "update performance",
+      -0.3149
+    ],
+    [
+      "absolutely",
+      -0.3149
+    ],
+    [
+      "loved",
+      -0.3149
+    ],
+    [
+      "incredible",
+      -0.3149
+    ],
+    [
+      "loved new",
+      -0.3149
+    ],
+    [
+      "performance incredible",
+      -0.3149
+    ],
+    [
+      "new",
+      -0.3149
+    ],
+    [
+      "new update",
+      -0.3149
+    ],
+    [
+      "service",
+      -0.3007
+    ],
+    [
+      "ve quality",
+      -0.2905
+    ],
+    [
+      "purchase",
+      -0.2905
+    ],
+    [
+      "advertised",
+      -0.2905
+    ],
+    [
+      "quality far",
+      -0.2905
+    ],
+    [
+      "purchase ve",
+      -0.2905
+    ]
+  ],
+  "model_accuracy": 0.914,
+  "cv_accuracy": 0.914,
+  "cv_std": 0.0049,
+  "error_rate": 0.086
+}

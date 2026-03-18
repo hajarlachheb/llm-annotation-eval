@@ -1,0 +1,63 @@
+# ─────────────────────────────────────────────────────────────
+# LLM Annotation Quality Evaluation — Configuration
+# ─────────────────────────────────────────────────────────────
+
+# Task type: "classification" | "ner" | "sentiment"
+task_type: "classification"
+
+dataset:
+  human_labels: "sample_data/human_annotations.jsonl"
+  llm_labels:
+    gpt4: "sample_data/llm_gpt4_annotations.jsonl"
+    gpt35: "sample_data/llm_gpt35_annotations.jsonl"
+  text_column: "text"
+  label_column: "label"
+  id_column: "sample_id"
+  confidence_column: "confidence"
+  rationale_column: "rationale"
+
+# For NER tasks only
+ner:
+  token_column: "tokens"
+  tag_column: "tags"
+
+metrics:
+  precision: true
+  recall: true
+  f1: true
+  cohen_kappa: true
+  krippendorff_alpha: true
+  per_class: true
+  confusion_matrix: true
+
+reliability:
+  bootstrap: true
+  bootstrap_n: 1000
+  confidence_level: 0.95
+
+slicing:
+  enabled: true
+  fields:
+    - field: "text_length"
+      bins: [0, 50, 150, 500, 10000]
+      bin_labels: ["short", "medium", "long", "very_long"]
+    - field: "domain"
+
+advanced:
+  inter_llm_agreement: true
+  error_analysis: true
+  error_sample_size: 20
+
+explainability:
+  feature_attribution: true
+  shap_values: true
+  shap_n_background: 100
+  shap_n_explain: 200
+  shap_max_display: 20
+  calibration: true
+  calibration_bins: 10
+  rationale_analysis: true
+
+output:
+  directory: "reports"
+  format: ["json", "csv", "png"]

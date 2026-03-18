@@ -1,0 +1,207 @@
+{
+  "global_importance": [
+    [
+      "work",
+      0.039219
+    ],
+    [
+      "needs",
+      0.034414
+    ],
+    [
+      "needs work",
+      0.025624
+    ],
+    [
+      "recommended disappointed",
+      0.015058
+    ],
+    [
+      "disappointed",
+      0.014395
+    ],
+    [
+      "quality",
+      0.012674
+    ],
+    [
+      "customer",
+      0.011139
+    ],
+    [
+      "standard",
+      0.011026
+    ],
+    [
+      "experience",
+      0.010494
+    ],
+    [
+      "overall satisfied",
+      0.00996
+    ],
+    [
+      "overall",
+      0.00996
+    ],
+    [
+      "satisfied",
+      0.00996
+    ],
+    [
+      "frustratingly broken",
+      0.009059
+    ],
+    [
+      "great frustratingly",
+      0.009059
+    ],
+    [
+      "frustratingly",
+      0.009059
+    ],
+    [
+      "work great",
+      0.009059
+    ],
+    [
+      "broken",
+      0.009059
+    ],
+    [
+      "things work",
+      0.009059
+    ],
+    [
+      "things",
+      0.009059
+    ],
+    [
+      "solution",
+      0.008862
+    ],
+    [
+      "solution impressive",
+      0.008862
+    ],
+    [
+      "impressive",
+      0.008862
+    ],
+    [
+      "disappointing",
+      0.008862
+    ],
+    [
+      "okay solution",
+      0.008862
+    ],
+    [
+      "okay",
+      0.008862
+    ],
+    [
+      "impressive disappointing",
+      0.008862
+    ],
+    [
+      "use",
+      0.008449
+    ],
+    [
+      "minutes use",
+      0.007413
+    ],
+    [
+      "disappointing disappointed",
+      0.007216
+    ],
+    [
+      "recommend friends",
+      0.007129
+    ],
+    [
+      "recommend",
+      0.007129
+    ],
+    [
+      "friends",
+      0.007129
+    ],
+    [
+      "expected disappointed",
+      0.006794
+    ],
+    [
+      "documentation use",
+      0.006761
+    ],
+    [
+      "execution",
+      0.006374
+    ],
+    [
+      "improvement",
+      0.006374
+    ],
+    [
+      "love",
+      0.006374
+    ],
+    [
+      "execution needs",
+      0.006374
+    ],
+    [
+      "love concept",
+      0.006374
+    ],
+    [
+      "concept execution",
+      0.006374
+    ],
+    [
+      "concept",
+      0.006374
+    ],
+    [
+      "needs improvement",
+      0.006374
+    ],
+    [
+      "performance",
+      0.006362
+    ],
+    [
+      "features needs",
+      0.006343
+    ],
+    [
+      "documentation disappointed",
+      0.005686
+    ],
+    [
+      "user",
+      0.005567
+    ],
+    [
+      "user experience",
+      0.005567
+    ],
+    [
+      "brilliant design",
+      0.005567
+    ],
+    [
+      "design",
+      0.005567
+    ],
+    [
+      "intuitive",
+      0.005567
+    ]
+  ],
+  "expected_value": -1.5468341852668865,
+  "model_accuracy": 0.814,
+  "n_explained": 200
+}

@@ -1,0 +1,59 @@
+{
+  "mixed -> neutral": [
+    "Excellent core product hampered by poor documentation.",
+    "Excellent core product hampered by poor documentation. Disappointed.",
+    "Fast shipping but the item quality was lower than expected. Will recommend to friends.",
+    "Fast shipping but the item quality was lower than expected. Not sure what to think.",
+    "Excellent core product hampered by poor documentation. Not sure what to think.",
+    "Fast shipping but the item quality was lower than expected. Would use again.",
+    "Good features but the interface is confusing and slow. Would use again.",
+    "Love the concept but execution needs serious improvement. Overall satisfied.",
+    "Excellent core product hampered by poor documentation. Will recommend to friends.",
+    "Love the concept but execution needs serious improvement. Not sure what to think."
+  ],
+  "neutral -> mixed": [
+    "The service meets basic requirements but doesn't stand out. Overall satisfied.",
+    "It's an okay solution. Neither impressive nor disappointing. Overall satisfied.",
+    "Average performance. It does what it says on the tin. Would use again.",
+    "Average performance. It does what it says on the tin. Not sure what to think.",
+    "The service meets basic requirements but doesn't stand out. Will recommend to friends.",
+    "Average performance. It does what it says on the tin. Needs work.",
+    "The product works as described. Nothing special, nothing bad. Will recommend to friends.",
+    "The service meets basic requirements but doesn't stand out. Will recommend to friends.",
+    "The service meets basic requirements but doesn't stand out. Overall satisfied.",
+    "Average performance. It does what it says on the tin. Will recommend to friends."
+  ],
+  "neutral -> positive": [
+    "Average performance. It does what it says on the tin. Overall satisfied.",
+    "The product works as described. Nothing special, nothing bad. Needs work.",
+    "Received the item on time. Standard packaging, standard quality. Will recommend to friends.",
+    "It's an okay solution. Neither impressive nor disappointing. Will recommend to friends.",
+    "The service meets basic requirements but doesn't stand out. Would use again.",
+    "The product works as described. Nothing special, nothing bad.",
+    "Received the item on time. Standard packaging, standard quality. Disappointed.",
+    "Average performance. It does what it says on the tin. Will recommend to friends.",
+    "The product works as described. Nothing special, nothing bad.",
+    "The product works as described. Nothing special, nothing bad. Not sure what to think."
+  ],
+  "negative -> neutral": [
+    "Completely unusable — filled with bugs and missing features. Overall satisfied.",
+    "Worst purchase I've made. Quality is far below what was advertised. Overall satisfied.",
+    "Customer support was unresponsive for over a week.",
+    "Completely unusable — filled with bugs and missing features. Would use again.",
+    "The update broke everything. I'm switching to a competitor. Would use again.",
+    "Terrible experience. The app crashed repeatedly and lost my data. Disappointed.",
+    "Terrible experience. The app crashed repeatedly and lost my data. Not sure what to think.",
+    "Terrible experience. The app crashed repeatedly and lost my data. Not sure what to think.",
+    "The update broke everything. I'm switching to a competitor."
+  ],
+  "positive -> neutral": [
+    "Brilliant design and intuitive user experience throughout. Overall satisfied.",
+    "Absolutely loved the new update! Performance is incredible. Needs work.",
+    "Absolutely loved the new update! Performance is incredible. Not sure what to think.",
+    "Great customer service, they resolved my issue in minutes. Would use again.",
+    "This is hands down the best tool I've used this year. Needs work.",
+    "This is hands down the best tool I've used this year. Overall satisfied.",
+    "This is hands down the best tool I've used this year. Will recommend to friends.",
+    "Great customer service, they resolved my issue in minutes. Overall satisfied."
+  ]
+}

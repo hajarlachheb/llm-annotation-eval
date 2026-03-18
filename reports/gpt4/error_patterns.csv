@@ -1,0 +1,11 @@
+label_human,label_llm,count,pct_of_errors
+positive,neutral,7,16.28
+mixed,negative,6,13.95
+neutral,mixed,6,13.95
+mixed,neutral,6,13.95
+neutral,positive,4,9.3
+negative,mixed,3,6.98
+positive,mixed,3,6.98
+negative,positive,2,4.65
+positive,negative,2,4.65
+neutral,negative,2,4.65

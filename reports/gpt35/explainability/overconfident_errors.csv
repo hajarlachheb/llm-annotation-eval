@@ -1,0 +1,10 @@
+text,label_human,label_llm,confidence
+Average performance. It does what it says on the tin. Not sure what to think.,neutral,mixed,0.97
+Average performance. It does what it says on the tin. Disappointed.,neutral,negative,0.94
+It's an okay solution. Neither impressive nor disappointing. Not sure what to think.,neutral,negative,0.93
+The service meets basic requirements but doesn't stand out. Overall satisfied.,neutral,mixed,0.92
+Customer support was unresponsive for over a week.,negative,positive,0.88
+The update broke everything. I'm switching to a competitor. Would use again.,negative,neutral,0.87
+Fast shipping but the item quality was lower than expected. Will recommend to friends.,mixed,neutral,0.86
+The update broke everything. I'm switching to a competitor.,negative,neutral,0.86
+Average performance. It does what it says on the tin. Overall satisfied.,neutral,positive,0.85

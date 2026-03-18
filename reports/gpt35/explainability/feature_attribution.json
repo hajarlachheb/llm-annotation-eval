@@ -1,0 +1,170 @@
+{
+  "error_predictors": [
+    [
+      "recommended disappointed",
+      1.009
+    ],
+    [
+      "slow use",
+      0.9135
+    ],
+    [
+      "minutes use",
+      0.7634
+    ],
+    [
+      "documentation disappointed",
+      0.7001
+    ],
+    [
+      "expected use",
+      0.5641
+    ],
+    [
+      "improvement sure",
+      0.5639
+    ],
+    [
+      "tin disappointed",
+      0.5635
+    ],
+    [
+      "data sure",
+      0.5207
+    ],
+    [
+      "expected sure",
+      0.4383
+    ],
+    [
+      "year overall",
+      0.3991
+    ],
+    [
+      "features needs",
+      0.3903
+    ],
+    [
+      "week disappointed",
+      0.34
+    ],
+    [
+      "disappointing overall",
+      0.3339
+    ],
+    [
+      "stand recommend",
+      0.3226
+    ],
+    [
+      "customer",
+      0.2966
+    ],
+    [
+      "tin overall",
+      0.2943
+    ],
+    [
+      "year recommend",
+      0.2887
+    ],
+    [
+      "features overall",
+      0.2736
+    ],
+    [
+      "disappointed",
+      0.2593
+    ],
+    [
+      "data disappointed",
+      0.2589
+    ]
+  ],
+  "correct_predictors": [
+    [
+      "work",
+      -0.6244
+    ],
+    [
+      "needs",
+      -0.5369
+    ],
+    [
+      "documentation use",
+      -0.5107
+    ],
+    [
+      "needs work",
+      -0.4782
+    ],
+    [
+      "minutes disappointed",
+      -0.4724
+    ],
+    [
+      "expected disappointed",
+      -0.4473
+    ],
+    [
+      "incredible disappointed",
+      -0.3821
+    ],
+    [
+      "incredible use",
+      -0.3753
+    ],
+    [
+      "disappointing disappointed",
+      -0.3722
+    ],
+    [
+      "bad use",
+      -0.3713
+    ],
+    [
+      "week use",
+      -0.3398
+    ],
+    [
+      "improvement use",
+      -0.3146
+    ],
+    [
+      "competitor overall",
+      -0.3109
+    ],
+    [
+      "things work",
+      -0.297
+    ],
+    [
+      "great frustratingly",
+      -0.297
+    ],
+    [
+      "things",
+      -0.297
+    ],
+    [
+      "frustratingly",
+      -0.297
+    ],
+    [
+      "frustratingly broken",
+      -0.297
+    ],
+    [
+      "work great",
+      -0.297
+    ],
+    [
+      "broken",
+      -0.297
+    ]
+  ],
+  "model_accuracy": 0.814,
+  "cv_accuracy": 0.814,
+  "cv_std": 0.0049,
+  "error_rate": 0.186
+}

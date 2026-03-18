@@ -1,0 +1,207 @@
+{
+  "global_importance": [
+    [
+      "satisfied",
+      0.019299
+    ],
+    [
+      "overall satisfied",
+      0.019299
+    ],
+    [
+      "overall",
+      0.019299
+    ],
+    [
+      "disappointed",
+      0.018199
+    ],
+    [
+      "work",
+      0.014551
+    ],
+    [
+      "update",
+      0.012952
+    ],
+    [
+      "performance",
+      0.011718
+    ],
+    [
+      "service",
+      0.01154
+    ],
+    [
+      "performance incredible",
+      0.011037
+    ],
+    [
+      "loved new",
+      0.011037
+    ],
+    [
+      "new update",
+      0.011037
+    ],
+    [
+      "loved",
+      0.011037
+    ],
+    [
+      "new",
+      0.011037
+    ],
+    [
+      "absolutely loved",
+      0.011037
+    ],
+    [
+      "absolutely",
+      0.011037
+    ],
+    [
+      "update performance",
+      0.011037
+    ],
+    [
+      "incredible",
+      0.011037
+    ],
+    [
+      "needs",
+      0.010344
+    ],
+    [
+      "standard",
+      0.010226
+    ],
+    [
+      "product",
+      0.010146
+    ],
+    [
+      "use",
+      0.009161
+    ],
+    [
+      "used year",
+      0.008809
+    ],
+    [
+      "tool ve",
+      0.008809
+    ],
+    [
+      "best tool",
+      0.008809
+    ],
+    [
+      "used",
+      0.008809
+    ],
+    [
+      "tool",
+      0.008809
+    ],
+    [
+      "ve used",
+      0.008809
+    ],
+    [
+      "year",
+      0.008809
+    ],
+    [
+      "best",
+      0.008809
+    ],
+    [
+      "hands best",
+      0.008809
+    ],
+    [
+      "hands",
+      0.008809
+    ],
+    [
+      "features",
+      0.007639
+    ],
+    [
+      "needs work",
+      0.007453
+    ],
+    [
+      "user experience",
+      0.007223
+    ],
+    [
+      "brilliant design",
+      0.007223
+    ],
+    [
+      "user",
+      0.007223
+    ],
+    [
+      "brilliant",
+      0.007223
+    ],
+    [
+      "intuitive",
+      0.007223
+    ],
+    [
+      "intuitive user",
+      0.007223
+    ],
+    [
+      "design intuitive",
+      0.007223
+    ],
+    [
+      "design",
+      0.007223
+    ],
+    [
+      "quality",
+      0.007216
+    ],
+    [
+      "advertised",
+      0.006687
+    ],
+    [
+      "ve quality",
+      0.006687
+    ],
+    [
+      "far",
+      0.006687
+    ],
+    [
+      "worst purchase",
+      0.006687
+    ],
+    [
+      "worst",
+      0.006687
+    ],
+    [
+      "purchase ve",
+      0.006687
+    ],
+    [
+      "purchase",
+      0.006687
+    ],
+    [
+      "quality far",
+      0.006687
+    ]
+  ],
+  "expected_value": -2.412048689016455,
+  "model_accuracy": 0.914,
+  "n_explained": 200
+}

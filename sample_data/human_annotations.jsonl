@@ -98,3 +98,403 @@
 {"sample_id": "sample_00097", "text": "This is hands down the best tool I've used this year.", "label": "positive", "domain": "healthcare"}
 {"sample_id": "sample_00098", "text": "Love the concept but execution needs serious improvement. Disappointed.", "label": "mixed", "domain": "technology"}
 {"sample_id": "sample_00099", "text": "Customer support was unresponsive for over a week. Overall satisfied.", "label": "negative", "domain": "sports"}
+{"sample_id": "sample_00100", "text": "Worst purchase I've made. Quality is far below what was advertised. Overall satisfied.", "label": "negative", "domain": "healthcare"}
+{"sample_id": "sample_00101", "text": "Terrible experience. The app crashed repeatedly and lost my data. Needs work.", "label": "negative", "domain": "technology"}
+{"sample_id": "sample_00102", "text": "Worst purchase I've made. Quality is far below what was advertised. Will recommend to friends.", "label": "negative", "domain": "sports"}
+{"sample_id": "sample_00103", "text": "Brilliant design and intuitive user experience throughout. Not sure what to think.", "label": "positive", "domain": "finance"}
+{"sample_id": "sample_00104", "text": "Some things work great, others are frustratingly broken. Will recommend to friends.", "label": "mixed", "domain": "healthcare"}
+{"sample_id": "sample_00105", "text": "Terrible experience. The app crashed repeatedly and lost my data. Disappointed.", "label": "negative", "domain": "finance"}
+{"sample_id": "sample_00106", "text": "Love the concept but execution needs serious improvement. Would use again.", "label": "mixed", "domain": "healthcare"}
+{"sample_id": "sample_00107", "text": "It's an okay solution. Neither impressive nor disappointing. Will recommend to friends.", "label": "neutral", "domain": "technology"}
+{"sample_id": "sample_00108", "text": "The product works as described. Nothing special, nothing bad. Will recommend to friends.", "label": "neutral", "domain": "sports"}
+{"sample_id": "sample_00109", "text": "The product works as described. Nothing special, nothing bad. Disappointed.", "label": "neutral", "domain": "healthcare"}
+{"sample_id": "sample_00110", "text": "Brilliant design and intuitive user experience throughout. Disappointed.", "label": "positive", "domain": "technology"}
+{"sample_id": "sample_00111", "text": "Absolutely loved the new update! Performance is incredible. Would use again.", "label": "positive", "domain": "entertainment"}
+{"sample_id": "sample_00112", "text": "Fast shipping but the item quality was lower than expected. Disappointed.", "label": "mixed", "domain": "healthcare"}
+{"sample_id": "sample_00113", "text": "The product exceeded all my expectations — highly recommended. Would use again.", "label": "positive", "domain": "sports"}
+{"sample_id": "sample_00114", "text": "The product works as described. Nothing special, nothing bad. Needs work.", "label": "neutral", "domain": "technology"}
+{"sample_id": "sample_00115", "text": "The product exceeded all my expectations — highly recommended. Would use again.", "label": "positive", "domain": "healthcare"}
+{"sample_id": "sample_00116", "text": "Completely unusable — filled with bugs and missing features. Will recommend to friends.", "label": "negative", "domain": "healthcare"}
+{"sample_id": "sample_00117", "text": "Average performance. It does what it says on the tin.", "label": "neutral", "domain": "finance"}
+{"sample_id": "sample_00118", "text": "The product works as described. Nothing special, nothing bad. Would use again.", "label": "neutral", "domain": "sports"}
+{"sample_id": "sample_00119", "text": "Fast shipping but the item quality was lower than expected. Would use again.", "label": "mixed", "domain": "entertainment"}
+{"sample_id": "sample_00120", "text": "Good features but the interface is confusing and slow. Needs work.", "label": "mixed", "domain": "sports"}
+{"sample_id": "sample_00121", "text": "It's an okay solution. Neither impressive nor disappointing. Overall satisfied.", "label": "neutral", "domain": "entertainment"}
+{"sample_id": "sample_00122", "text": "Excellent core product hampered by poor documentation. Would use again.", "label": "mixed", "domain": "sports"}
+{"sample_id": "sample_00123", "text": "Received the item on time. Standard packaging, standard quality. Would use again.", "label": "neutral", "domain": "sports"}
+{"sample_id": "sample_00124", "text": "This is hands down the best tool I've used this year. Overall satisfied.", "label": "positive", "domain": "entertainment"}
+{"sample_id": "sample_00125", "text": "The product exceeded all my expectations — highly recommended. Overall satisfied.", "label": "positive", "domain": "technology"}
+{"sample_id": "sample_00126", "text": "The service meets basic requirements but doesn't stand out. Not sure what to think.", "label": "neutral", "domain": "finance"}
+{"sample_id": "sample_00127", "text": "This is hands down the best tool I've used this year. Disappointed.", "label": "positive", "domain": "technology"}
+{"sample_id": "sample_00128", "text": "The update broke everything. I'm switching to a competitor. Disappointed.", "label": "negative", "domain": "sports"}
+{"sample_id": "sample_00129", "text": "Average performance. It does what it says on the tin. Not sure what to think.", "label": "neutral", "domain": "technology"}
+{"sample_id": "sample_00130", "text": "The update broke everything. I'm switching to a competitor.", "label": "negative", "domain": "finance"}
+{"sample_id": "sample_00131", "text": "The product exceeded all my expectations — highly recommended. Needs work.", "label": "positive", "domain": "finance"}
+{"sample_id": "sample_00132", "text": "Fast shipping but the item quality was lower than expected.", "label": "mixed", "domain": "finance"}
+{"sample_id": "sample_00133", "text": "Brilliant design and intuitive user experience throughout. Disappointed.", "label": "positive", "domain": "sports"}
+{"sample_id": "sample_00134", "text": "The product works as described. Nothing special, nothing bad. Needs work.", "label": "neutral", "domain": "finance"}
+{"sample_id": "sample_00135", "text": "Excellent core product hampered by poor documentation. Not sure what to think.", "label": "mixed", "domain": "finance"}
+{"sample_id": "sample_00136", "text": "The product works as described. Nothing special, nothing bad. Needs work.", "label": "neutral", "domain": "finance"}
+{"sample_id": "sample_00137", "text": "Average performance. It does what it says on the tin. Not sure what to think.", "label": "neutral", "domain": "healthcare"}
+{"sample_id": "sample_00138", "text": "Customer support was unresponsive for over a week.", "label": "negative", "domain": "healthcare"}
+{"sample_id": "sample_00139", "text": "Fast shipping but the item quality was lower than expected. Will recommend to friends.", "label": "mixed", "domain": "entertainment"}
+{"sample_id": "sample_00140", "text": "Average performance. It does what it says on the tin. Needs work.", "label": "neutral", "domain": "finance"}
+{"sample_id": "sample_00141", "text": "It's an okay solution. Neither impressive nor disappointing. Needs work.", "label": "neutral", "domain": "finance"}
+{"sample_id": "sample_00142", "text": "Excellent core product hampered by poor documentation. Overall satisfied.", "label": "mixed", "domain": "entertainment"}
+{"sample_id": "sample_00143", "text": "Fast shipping but the item quality was lower than expected. Would use again.", "label": "mixed", "domain": "finance"}
+{"sample_id": "sample_00144", "text": "Great customer service, they resolved my issue in minutes. Disappointed.", "label": "positive", "domain": "sports"}
+{"sample_id": "sample_00145", "text": "Excellent core product hampered by poor documentation. Will recommend to friends.", "label": "mixed", "domain": "technology"}
+{"sample_id": "sample_00146", "text": "Received the item on time. Standard packaging, standard quality. Disappointed.", "label": "neutral", "domain": "entertainment"}
+{"sample_id": "sample_00147", "text": "Love the concept but execution needs serious improvement. Overall satisfied.", "label": "mixed", "domain": "finance"}
+{"sample_id": "sample_00148", "text": "Brilliant design and intuitive user experience throughout. Overall satisfied.", "label": "positive", "domain": "technology"}
+{"sample_id": "sample_00149", "text": "Terrible experience. The app crashed repeatedly and lost my data. Not sure what to think.", "label": "negative", "domain": "finance"}
+{"sample_id": "sample_00150", "text": "Love the concept but execution needs serious improvement. Would use again.", "label": "mixed", "domain": "healthcare"}
+{"sample_id": "sample_00151", "text": "Some things work great, others are frustratingly broken. Disappointed.", "label": "mixed", "domain": "healthcare"}
+{"sample_id": "sample_00152", "text": "It's an okay solution. Neither impressive nor disappointing. Will recommend to friends.", "label": "neutral", "domain": "healthcare"}
+{"sample_id": "sample_00153", "text": "Love the concept but execution needs serious improvement. Will recommend to friends.", "label": "mixed", "domain": "healthcare"}
+{"sample_id": "sample_00154", "text": "This is hands down the best tool I've used this year. Will recommend to friends.", "label": "positive", "domain": "finance"}
+{"sample_id": "sample_00155", "text": "Worst purchase I've made. Quality is far below what was advertised. Not sure what to think.", "label": "negative", "domain": "finance"}
+{"sample_id": "sample_00156", "text": "Terrible experience. The app crashed repeatedly and lost my data. Not sure what to think.", "label": "negative", "domain": "finance"}
+{"sample_id": "sample_00157", "text": "Excellent core product hampered by poor documentation. Overall satisfied.", "label": "mixed", "domain": "finance"}
+{"sample_id": "sample_00158", "text": "Good features but the interface is confusing and slow. Will recommend to friends.", "label": "mixed", "domain": "technology"}
+{"sample_id": "sample_00159", "text": "Absolutely loved the new update! Performance is incredible. Will recommend to friends.", "label": "positive", "domain": "sports"}
+{"sample_id": "sample_00160", "text": "Good features but the interface is confusing and slow. Overall satisfied.", "label": "mixed", "domain": "technology"}
+{"sample_id": "sample_00161", "text": "This is hands down the best tool I've used this year. Overall satisfied.", "label": "positive", "domain": "entertainment"}
+{"sample_id": "sample_00162", "text": "The product works as described. Nothing special, nothing bad. Not sure what to think.", "label": "neutral", "domain": "finance"}
+{"sample_id": "sample_00163", "text": "Terrible experience. The app crashed repeatedly and lost my data. Not sure what to think.", "label": "negative", "domain": "entertainment"}
+{"sample_id": "sample_00164", "text": "Love the concept but execution needs serious improvement. Will recommend to friends.", "label": "mixed", "domain": "healthcare"}
+{"sample_id": "sample_00165", "text": "The service meets basic requirements but doesn't stand out. Needs work.", "label": "neutral", "domain": "entertainment"}
+{"sample_id": "sample_00166", "text": "Received the item on time. Standard packaging, standard quality.", "label": "neutral", "domain": "technology"}
+{"sample_id": "sample_00167", "text": "Excellent core product hampered by poor documentation. Not sure what to think.", "label": "mixed", "domain": "entertainment"}
+{"sample_id": "sample_00168", "text": "Received the item on time. Standard packaging, standard quality.", "label": "neutral", "domain": "finance"}
+{"sample_id": "sample_00169", "text": "Some things work great, others are frustratingly broken. Needs work.", "label": "mixed", "domain": "finance"}
+{"sample_id": "sample_00170", "text": "Brilliant design and intuitive user experience throughout. Not sure what to think.", "label": "positive", "domain": "entertainment"}
+{"sample_id": "sample_00171", "text": "Good features but the interface is confusing and slow. Would use again.", "label": "mixed", "domain": "finance"}
+{"sample_id": "sample_00172", "text": "Received the item on time. Standard packaging, standard quality. Needs work.", "label": "neutral", "domain": "finance"}
+{"sample_id": "sample_00173", "text": "Great customer service, they resolved my issue in minutes. Needs work.", "label": "positive", "domain": "entertainment"}
+{"sample_id": "sample_00174", "text": "It's an okay solution. Neither impressive nor disappointing. Would use again.", "label": "neutral", "domain": "finance"}
+{"sample_id": "sample_00175", "text": "Received the item on time. Standard packaging, standard quality. Disappointed.", "label": "neutral", "domain": "finance"}
+{"sample_id": "sample_00176", "text": "Completely unusable — filled with bugs and missing features. Overall satisfied.", "label": "negative", "domain": "healthcare"}
+{"sample_id": "sample_00177", "text": "Fast shipping but the item quality was lower than expected. Would use again.", "label": "mixed", "domain": "entertainment"}
+{"sample_id": "sample_00178", "text": "Excellent core product hampered by poor documentation. Will recommend to friends.", "label": "mixed", "domain": "entertainment"}
+{"sample_id": "sample_00179", "text": "Worst purchase I've made. Quality is far below what was advertised. Overall satisfied.", "label": "negative", "domain": "finance"}
+{"sample_id": "sample_00180", "text": "Completely unusable — filled with bugs and missing features. Overall satisfied.", "label": "negative", "domain": "technology"}
+{"sample_id": "sample_00181", "text": "The service meets basic requirements but doesn't stand out. Overall satisfied.", "label": "neutral", "domain": "finance"}
+{"sample_id": "sample_00182", "text": "Absolutely loved the new update! Performance is incredible.", "label": "positive", "domain": "finance"}
+{"sample_id": "sample_00183", "text": "Brilliant design and intuitive user experience throughout. Disappointed.", "label": "positive", "domain": "entertainment"}
+{"sample_id": "sample_00184", "text": "Absolutely loved the new update! Performance is incredible. Would use again.", "label": "positive", "domain": "sports"}
+{"sample_id": "sample_00185", "text": "Received the item on time. Standard packaging, standard quality. Needs work.", "label": "neutral", "domain": "healthcare"}
+{"sample_id": "sample_00186", "text": "Love the concept but execution needs serious improvement. Would use again.", "label": "mixed", "domain": "finance"}
+{"sample_id": "sample_00187", "text": "Average performance. It does what it says on the tin. Will recommend to friends.", "label": "neutral", "domain": "healthcare"}
+{"sample_id": "sample_00188", "text": "Fast shipping but the item quality was lower than expected. Needs work.", "label": "mixed", "domain": "healthcare"}
+{"sample_id": "sample_00189", "text": "Some things work great, others are frustratingly broken. Overall satisfied.", "label": "mixed", "domain": "finance"}
+{"sample_id": "sample_00190", "text": "The product works as described. Nothing special, nothing bad. Needs work.", "label": "neutral", "domain": "finance"}
+{"sample_id": "sample_00191", "text": "The service meets basic requirements but doesn't stand out. Disappointed.", "label": "neutral", "domain": "entertainment"}
+{"sample_id": "sample_00192", "text": "Customer support was unresponsive for over a week. Overall satisfied.", "label": "negative", "domain": "entertainment"}
+{"sample_id": "sample_00193", "text": "Love the concept but execution needs serious improvement. Overall satisfied.", "label": "mixed", "domain": "entertainment"}
+{"sample_id": "sample_00194", "text": "The service meets basic requirements but doesn't stand out. Not sure what to think.", "label": "neutral", "domain": "entertainment"}
+{"sample_id": "sample_00195", "text": "Received the item on time. Standard packaging, standard quality. Disappointed.", "label": "neutral", "domain": "finance"}
+{"sample_id": "sample_00196", "text": "This is hands down the best tool I've used this year. Needs work.", "label": "positive", "domain": "technology"}
+{"sample_id": "sample_00197", "text": "Love the concept but execution needs serious improvement. Overall satisfied.", "label": "mixed", "domain": "entertainment"}
+{"sample_id": "sample_00198", "text": "Terrible experience. The app crashed repeatedly and lost my data. Needs work.", "label": "negative", "domain": "technology"}
+{"sample_id": "sample_00199", "text": "Great customer service, they resolved my issue in minutes. Overall satisfied.", "label": "positive", "domain": "healthcare"}
+{"sample_id": "sample_00200", "text": "Fast shipping but the item quality was lower than expected. Not sure what to think.", "label": "mixed", "domain": "entertainment"}
+{"sample_id": "sample_00201", "text": "Love the concept but execution needs serious improvement. Would use again.", "label": "mixed", "domain": "technology"}
+{"sample_id": "sample_00202", "text": "Worst purchase I've made. Quality is far below what was advertised. Not sure what to think.", "label": "negative", "domain": "sports"}
+{"sample_id": "sample_00203", "text": "Excellent core product hampered by poor documentation. Will recommend to friends.", "label": "mixed", "domain": "technology"}
+{"sample_id": "sample_00204", "text": "It's an okay solution. Neither impressive nor disappointing. Disappointed.", "label": "neutral", "domain": "technology"}
+{"sample_id": "sample_00205", "text": "Average performance. It does what it says on the tin.", "label": "neutral", "domain": "entertainment"}
+{"sample_id": "sample_00206", "text": "Absolutely loved the new update! Performance is incredible. Needs work.", "label": "positive", "domain": "technology"}
+{"sample_id": "sample_00207", "text": "Excellent core product hampered by poor documentation. Needs work.", "label": "mixed", "domain": "healthcare"}
+{"sample_id": "sample_00208", "text": "The update broke everything. I'm switching to a competitor. Disappointed.", "label": "negative", "domain": "finance"}
+{"sample_id": "sample_00209", "text": "Excellent core product hampered by poor documentation. Would use again.", "label": "mixed", "domain": "technology"}
+{"sample_id": "sample_00210", "text": "It's an okay solution. Neither impressive nor disappointing. Disappointed.", "label": "neutral", "domain": "entertainment"}
+{"sample_id": "sample_00211", "text": "The product exceeded all my expectations — highly recommended. Would use again.", "label": "positive", "domain": "sports"}
+{"sample_id": "sample_00212", "text": "Customer support was unresponsive for over a week. Overall satisfied.", "label": "negative", "domain": "sports"}
+{"sample_id": "sample_00213", "text": "Average performance. It does what it says on the tin.", "label": "neutral", "domain": "technology"}
+{"sample_id": "sample_00214", "text": "The product exceeded all my expectations — highly recommended. Disappointed.", "label": "positive", "domain": "technology"}
+{"sample_id": "sample_00215", "text": "The product exceeded all my expectations — highly recommended. Not sure what to think.", "label": "positive", "domain": "entertainment"}
+{"sample_id": "sample_00216", "text": "It's an okay solution. Neither impressive nor disappointing. Disappointed.", "label": "neutral", "domain": "entertainment"}
+{"sample_id": "sample_00217", "text": "This is hands down the best tool I've used this year. Needs work.", "label": "positive", "domain": "entertainment"}
+{"sample_id": "sample_00218", "text": "The update broke everything. I'm switching to a competitor. Overall satisfied.", "label": "negative", "domain": "healthcare"}
+{"sample_id": "sample_00219", "text": "Good features but the interface is confusing and slow. Overall satisfied.", "label": "mixed", "domain": "sports"}
+{"sample_id": "sample_00220", "text": "Some things work great, others are frustratingly broken. Disappointed.", "label": "mixed", "domain": "finance"}
+{"sample_id": "sample_00221", "text": "This is hands down the best tool I've used this year.", "label": "positive", "domain": "finance"}
+{"sample_id": "sample_00222", "text": "Some things work great, others are frustratingly broken. Needs work.", "label": "mixed", "domain": "sports"}
+{"sample_id": "sample_00223", "text": "Completely unusable — filled with bugs and missing features.", "label": "negative", "domain": "healthcare"}
+{"sample_id": "sample_00224", "text": "It's an okay solution. Neither impressive nor disappointing. Disappointed.", "label": "neutral", "domain": "entertainment"}
+{"sample_id": "sample_00225", "text": "Terrible experience. The app crashed repeatedly and lost my data.", "label": "negative", "domain": "sports"}
+{"sample_id": "sample_00226", "text": "Brilliant design and intuitive user experience throughout. Overall satisfied.", "label": "positive", "domain": "finance"}
+{"sample_id": "sample_00227", "text": "The update broke everything. I'm switching to a competitor. Not sure what to think.", "label": "negative", "domain": "healthcare"}
+{"sample_id": "sample_00228", "text": "Completely unusable — filled with bugs and missing features. Would use again.", "label": "negative", "domain": "entertainment"}
+{"sample_id": "sample_00229", "text": "Fast shipping but the item quality was lower than expected. Needs work.", "label": "mixed", "domain": "finance"}
+{"sample_id": "sample_00230", "text": "Love the concept but execution needs serious improvement. Not sure what to think.", "label": "mixed", "domain": "sports"}
+{"sample_id": "sample_00231", "text": "Worst purchase I've made. Quality is far below what was advertised.", "label": "negative", "domain": "entertainment"}
+{"sample_id": "sample_00232", "text": "The product works as described. Nothing special, nothing bad. Needs work.", "label": "neutral", "domain": "technology"}
+{"sample_id": "sample_00233", "text": "Absolutely loved the new update! Performance is incredible. Would use again.", "label": "positive", "domain": "entertainment"}
+{"sample_id": "sample_00234", "text": "Customer support was unresponsive for over a week. Disappointed.", "label": "negative", "domain": "finance"}
+{"sample_id": "sample_00235", "text": "Love the concept but execution needs serious improvement. Overall satisfied.", "label": "mixed", "domain": "technology"}
+{"sample_id": "sample_00236", "text": "Excellent core product hampered by poor documentation.", "label": "mixed", "domain": "sports"}
+{"sample_id": "sample_00237", "text": "Customer support was unresponsive for over a week.", "label": "negative", "domain": "technology"}
+{"sample_id": "sample_00238", "text": "Fast shipping but the item quality was lower than expected. Will recommend to friends.", "label": "mixed", "domain": "healthcare"}
+{"sample_id": "sample_00239", "text": "Excellent core product hampered by poor documentation. Would use again.", "label": "mixed", "domain": "technology"}
+{"sample_id": "sample_00240", "text": "Absolutely loved the new update! Performance is incredible. Will recommend to friends.", "label": "positive", "domain": "finance"}
+{"sample_id": "sample_00241", "text": "The update broke everything. I'm switching to a competitor. Needs work.", "label": "negative", "domain": "technology"}
+{"sample_id": "sample_00242", "text": "This is hands down the best tool I've used this year. Overall satisfied.", "label": "positive", "domain": "sports"}
+{"sample_id": "sample_00243", "text": "Terrible experience. The app crashed repeatedly and lost my data.", "label": "negative", "domain": "entertainment"}
+{"sample_id": "sample_00244", "text": "The product exceeded all my expectations — highly recommended. Needs work.", "label": "positive", "domain": "sports"}
+{"sample_id": "sample_00245", "text": "Absolutely loved the new update! Performance is incredible. Needs work.", "label": "positive", "domain": "sports"}
+{"sample_id": "sample_00246", "text": "The service meets basic requirements but doesn't stand out. Will recommend to friends.", "label": "neutral", "domain": "finance"}
+{"sample_id": "sample_00247", "text": "The product works as described. Nothing special, nothing bad.", "label": "neutral", "domain": "technology"}
+{"sample_id": "sample_00248", "text": "Good features but the interface is confusing and slow. Not sure what to think.", "label": "mixed", "domain": "healthcare"}
+{"sample_id": "sample_00249", "text": "Love the concept but execution needs serious improvement. Will recommend to friends.", "label": "mixed", "domain": "finance"}
+{"sample_id": "sample_00250", "text": "The service meets basic requirements but doesn't stand out. Will recommend to friends.", "label": "neutral", "domain": "entertainment"}
+{"sample_id": "sample_00251", "text": "Love the concept but execution needs serious improvement. Not sure what to think.", "label": "mixed", "domain": "entertainment"}
+{"sample_id": "sample_00252", "text": "Average performance. It does what it says on the tin. Disappointed.", "label": "neutral", "domain": "finance"}
+{"sample_id": "sample_00253", "text": "The product works as described. Nothing special, nothing bad.", "label": "neutral", "domain": "finance"}
+{"sample_id": "sample_00254", "text": "Fast shipping but the item quality was lower than expected. Overall satisfied.", "label": "mixed", "domain": "entertainment"}
+{"sample_id": "sample_00255", "text": "Good features but the interface is confusing and slow. Not sure what to think.", "label": "mixed", "domain": "sports"}
+{"sample_id": "sample_00256", "text": "Love the concept but execution needs serious improvement. Would use again.", "label": "mixed", "domain": "technology"}
+{"sample_id": "sample_00257", "text": "Good features but the interface is confusing and slow. Not sure what to think.", "label": "mixed", "domain": "technology"}
+{"sample_id": "sample_00258", "text": "Completely unusable — filled with bugs and missing features.", "label": "negative", "domain": "sports"}
+{"sample_id": "sample_00259", "text": "Completely unusable — filled with bugs and missing features. Not sure what to think.", "label": "negative", "domain": "entertainment"}
+{"sample_id": "sample_00260", "text": "Fast shipping but the item quality was lower than expected. Will recommend to friends.", "label": "mixed", "domain": "healthcare"}
+{"sample_id": "sample_00261", "text": "The update broke everything. I'm switching to a competitor.", "label": "negative", "domain": "sports"}
+{"sample_id": "sample_00262", "text": "Completely unusable — filled with bugs and missing features. Would use again.", "label": "negative", "domain": "technology"}
+{"sample_id": "sample_00263", "text": "Fast shipping but the item quality was lower than expected. Needs work.", "label": "mixed", "domain": "entertainment"}
+{"sample_id": "sample_00264", "text": "Great customer service, they resolved my issue in minutes. Disappointed.", "label": "positive", "domain": "technology"}
+{"sample_id": "sample_00265", "text": "It's an okay solution. Neither impressive nor disappointing.", "label": "neutral", "domain": "finance"}
+{"sample_id": "sample_00266", "text": "Worst purchase I've made. Quality is far below what was advertised. Not sure what to think.", "label": "negative", "domain": "sports"}
+{"sample_id": "sample_00267", "text": "Good features but the interface is confusing and slow. Not sure what to think.", "label": "mixed", "domain": "sports"}
+{"sample_id": "sample_00268", "text": "Love the concept but execution needs serious improvement. Overall satisfied.", "label": "mixed", "domain": "sports"}
+{"sample_id": "sample_00269", "text": "Absolutely loved the new update! Performance is incredible.", "label": "positive", "domain": "technology"}
+{"sample_id": "sample_00270", "text": "Completely unusable — filled with bugs and missing features. Overall satisfied.", "label": "negative", "domain": "sports"}
+{"sample_id": "sample_00271", "text": "Excellent core product hampered by poor documentation.", "label": "mixed", "domain": "entertainment"}
+{"sample_id": "sample_00272", "text": "The product works as described. Nothing special, nothing bad. Overall satisfied.", "label": "neutral", "domain": "finance"}
+{"sample_id": "sample_00273", "text": "Fast shipping but the item quality was lower than expected. Disappointed.", "label": "mixed", "domain": "technology"}
+{"sample_id": "sample_00274", "text": "Completely unusable — filled with bugs and missing features. Overall satisfied.", "label": "negative", "domain": "entertainment"}
+{"sample_id": "sample_00275", "text": "Excellent core product hampered by poor documentation. Overall satisfied.", "label": "mixed", "domain": "healthcare"}
+{"sample_id": "sample_00276", "text": "The update broke everything. I'm switching to a competitor. Would use again.", "label": "negative", "domain": "sports"}
+{"sample_id": "sample_00277", "text": "Love the concept but execution needs serious improvement. Would use again.", "label": "mixed", "domain": "sports"}
+{"sample_id": "sample_00278", "text": "Excellent core product hampered by poor documentation. Would use again.", "label": "mixed", "domain": "finance"}
+{"sample_id": "sample_00279", "text": "Average performance. It does what it says on the tin. Will recommend to friends.", "label": "neutral", "domain": "sports"}
+{"sample_id": "sample_00280", "text": "The service meets basic requirements but doesn't stand out. Will recommend to friends.", "label": "neutral", "domain": "finance"}
+{"sample_id": "sample_00281", "text": "The product works as described. Nothing special, nothing bad. Needs work.", "label": "neutral", "domain": "technology"}
+{"sample_id": "sample_00282", "text": "The update broke everything. I'm switching to a competitor. Disappointed.", "label": "negative", "domain": "technology"}
+{"sample_id": "sample_00283", "text": "This is hands down the best tool I've used this year. Not sure what to think.", "label": "positive", "domain": "entertainment"}
+{"sample_id": "sample_00284", "text": "The service meets basic requirements but doesn't stand out. Disappointed.", "label": "neutral", "domain": "finance"}
+{"sample_id": "sample_00285", "text": "Customer support was unresponsive for over a week. Would use again.", "label": "negative", "domain": "healthcare"}
+{"sample_id": "sample_00286", "text": "It's an okay solution. Neither impressive nor disappointing. Needs work.", "label": "neutral", "domain": "sports"}
+{"sample_id": "sample_00287", "text": "The service meets basic requirements but doesn't stand out.", "label": "neutral", "domain": "finance"}
+{"sample_id": "sample_00288", "text": "Love the concept but execution needs serious improvement. Needs work.", "label": "mixed", "domain": "healthcare"}
+{"sample_id": "sample_00289", "text": "Some things work great, others are frustratingly broken. Disappointed.", "label": "mixed", "domain": "finance"}
+{"sample_id": "sample_00290", "text": "Excellent core product hampered by poor documentation.", "label": "mixed", "domain": "sports"}
+{"sample_id": "sample_00291", "text": "The product exceeded all my expectations — highly recommended. Not sure what to think.", "label": "positive", "domain": "finance"}
+{"sample_id": "sample_00292", "text": "Worst purchase I've made. Quality is far below what was advertised. Disappointed.", "label": "negative", "domain": "finance"}
+{"sample_id": "sample_00293", "text": "Good features but the interface is confusing and slow.", "label": "mixed", "domain": "technology"}
+{"sample_id": "sample_00294", "text": "Good features but the interface is confusing and slow. Disappointed.", "label": "mixed", "domain": "finance"}
+{"sample_id": "sample_00295", "text": "Terrible experience. The app crashed repeatedly and lost my data. Overall satisfied.", "label": "negative", "domain": "entertainment"}
+{"sample_id": "sample_00296", "text": "Fast shipping but the item quality was lower than expected. Disappointed.", "label": "mixed", "domain": "sports"}
+{"sample_id": "sample_00297", "text": "It's an okay solution. Neither impressive nor disappointing. Not sure what to think.", "label": "neutral", "domain": "healthcare"}
+{"sample_id": "sample_00298", "text": "The product works as described. Nothing special, nothing bad. Will recommend to friends.", "label": "neutral", "domain": "technology"}
+{"sample_id": "sample_00299", "text": "Worst purchase I've made. Quality is far below what was advertised. Needs work.", "label": "negative", "domain": "finance"}
+{"sample_id": "sample_00300", "text": "Worst purchase I've made. Quality is far below what was advertised. Will recommend to friends.", "label": "negative", "domain": "entertainment"}
+{"sample_id": "sample_00301", "text": "This is hands down the best tool I've used this year.", "label": "positive", "domain": "finance"}
+{"sample_id": "sample_00302", "text": "Excellent core product hampered by poor documentation. Disappointed.", "label": "mixed", "domain": "sports"}
+{"sample_id": "sample_00303", "text": "The update broke everything. I'm switching to a competitor. Not sure what to think.", "label": "negative", "domain": "sports"}
+{"sample_id": "sample_00304", "text": "Terrible experience. The app crashed repeatedly and lost my data. Would use again.", "label": "negative", "domain": "finance"}
+{"sample_id": "sample_00305", "text": "Terrible experience. The app crashed repeatedly and lost my data.", "label": "negative", "domain": "healthcare"}
+{"sample_id": "sample_00306", "text": "Average performance. It does what it says on the tin. Not sure what to think.", "label": "neutral", "domain": "healthcare"}
+{"sample_id": "sample_00307", "text": "It's an okay solution. Neither impressive nor disappointing. Not sure what to think.", "label": "neutral", "domain": "entertainment"}
+{"sample_id": "sample_00308", "text": "Brilliant design and intuitive user experience throughout. Will recommend to friends.", "label": "positive", "domain": "entertainment"}
+{"sample_id": "sample_00309", "text": "The update broke everything. I'm switching to a competitor.", "label": "negative", "domain": "finance"}
+{"sample_id": "sample_00310", "text": "Terrible experience. The app crashed repeatedly and lost my data. Overall satisfied.", "label": "negative", "domain": "sports"}
+{"sample_id": "sample_00311", "text": "The product works as described. Nothing special, nothing bad. Overall satisfied.", "label": "neutral", "domain": "finance"}
+{"sample_id": "sample_00312", "text": "Received the item on time. Standard packaging, standard quality.", "label": "neutral", "domain": "entertainment"}
+{"sample_id": "sample_00313", "text": "Some things work great, others are frustratingly broken. Overall satisfied.", "label": "mixed", "domain": "sports"}
+{"sample_id": "sample_00314", "text": "Terrible experience. The app crashed repeatedly and lost my data. Needs work.", "label": "negative", "domain": "finance"}
+{"sample_id": "sample_00315", "text": "Some things work great, others are frustratingly broken.", "label": "mixed", "domain": "healthcare"}
+{"sample_id": "sample_00316", "text": "The product works as described. Nothing special, nothing bad.", "label": "neutral", "domain": "healthcare"}
+{"sample_id": "sample_00317", "text": "This is hands down the best tool I've used this year.", "label": "positive", "domain": "entertainment"}
+{"sample_id": "sample_00318", "text": "Completely unusable — filled with bugs and missing features. Not sure what to think.", "label": "negative", "domain": "technology"}
+{"sample_id": "sample_00319", "text": "Terrible experience. The app crashed repeatedly and lost my data. Would use again.", "label": "negative", "domain": "healthcare"}
+{"sample_id": "sample_00320", "text": "Good features but the interface is confusing and slow. Overall satisfied.", "label": "mixed", "domain": "technology"}
+{"sample_id": "sample_00321", "text": "Completely unusable — filled with bugs and missing features. Will recommend to friends.", "label": "negative", "domain": "entertainment"}
+{"sample_id": "sample_00322", "text": "Received the item on time. Standard packaging, standard quality. Will recommend to friends.", "label": "neutral", "domain": "healthcare"}
+{"sample_id": "sample_00323", "text": "Absolutely loved the new update! Performance is incredible.", "label": "positive", "domain": "healthcare"}
+{"sample_id": "sample_00324", "text": "The product works as described. Nothing special, nothing bad.", "label": "neutral", "domain": "finance"}
+{"sample_id": "sample_00325", "text": "Absolutely loved the new update! Performance is incredible. Needs work.", "label": "positive", "domain": "finance"}
+{"sample_id": "sample_00326", "text": "Love the concept but execution needs serious improvement. Not sure what to think.", "label": "mixed", "domain": "healthcare"}
+{"sample_id": "sample_00327", "text": "It's an okay solution. Neither impressive nor disappointing. Needs work.", "label": "neutral", "domain": "entertainment"}
+{"sample_id": "sample_00328", "text": "The update broke everything. I'm switching to a competitor. Will recommend to friends.", "label": "negative", "domain": "finance"}
+{"sample_id": "sample_00329", "text": "It's an okay solution. Neither impressive nor disappointing. Not sure what to think.", "label": "neutral", "domain": "healthcare"}
+{"sample_id": "sample_00330", "text": "Customer support was unresponsive for over a week.", "label": "negative", "domain": "healthcare"}
+{"sample_id": "sample_00331", "text": "Average performance. It does what it says on the tin. Would use again.", "label": "neutral", "domain": "healthcare"}
+{"sample_id": "sample_00332", "text": "The update broke everything. I'm switching to a competitor. Would use again.", "label": "negative", "domain": "sports"}
+{"sample_id": "sample_00333", "text": "This is hands down the best tool I've used this year. Needs work.", "label": "positive", "domain": "finance"}
+{"sample_id": "sample_00334", "text": "Absolutely loved the new update! Performance is incredible. Would use again.", "label": "positive", "domain": "entertainment"}
+{"sample_id": "sample_00335", "text": "It's an okay solution. Neither impressive nor disappointing. Overall satisfied.", "label": "neutral", "domain": "finance"}
+{"sample_id": "sample_00336", "text": "Some things work great, others are frustratingly broken. Would use again.", "label": "mixed", "domain": "entertainment"}
+{"sample_id": "sample_00337", "text": "Some things work great, others are frustratingly broken. Disappointed.", "label": "mixed", "domain": "technology"}
+{"sample_id": "sample_00338", "text": "Great customer service, they resolved my issue in minutes. Overall satisfied.", "label": "positive", "domain": "technology"}
+{"sample_id": "sample_00339", "text": "The product works as described. Nothing special, nothing bad. Would use again.", "label": "neutral", "domain": "technology"}
+{"sample_id": "sample_00340", "text": "It's an okay solution. Neither impressive nor disappointing.", "label": "neutral", "domain": "technology"}
+{"sample_id": "sample_00341", "text": "Excellent core product hampered by poor documentation. Disappointed.", "label": "mixed", "domain": "sports"}
+{"sample_id": "sample_00342", "text": "Brilliant design and intuitive user experience throughout. Will recommend to friends.", "label": "positive", "domain": "entertainment"}
+{"sample_id": "sample_00343", "text": "The product works as described. Nothing special, nothing bad. Not sure what to think.", "label": "neutral", "domain": "technology"}
+{"sample_id": "sample_00344", "text": "The service meets basic requirements but doesn't stand out. Overall satisfied.", "label": "neutral", "domain": "sports"}
+{"sample_id": "sample_00345", "text": "Absolutely loved the new update! Performance is incredible. Not sure what to think.", "label": "positive", "domain": "healthcare"}
+{"sample_id": "sample_00346", "text": "Received the item on time. Standard packaging, standard quality. Would use again.", "label": "neutral", "domain": "finance"}
+{"sample_id": "sample_00347", "text": "The product exceeded all my expectations — highly recommended. Will recommend to friends.", "label": "positive", "domain": "entertainment"}
+{"sample_id": "sample_00348", "text": "Good features but the interface is confusing and slow. Not sure what to think.", "label": "mixed", "domain": "sports"}
+{"sample_id": "sample_00349", "text": "It's an okay solution. Neither impressive nor disappointing. Not sure what to think.", "label": "neutral", "domain": "healthcare"}
+{"sample_id": "sample_00350", "text": "Great customer service, they resolved my issue in minutes. Will recommend to friends.", "label": "positive", "domain": "finance"}
+{"sample_id": "sample_00351", "text": "Fast shipping but the item quality was lower than expected. Needs work.", "label": "mixed", "domain": "entertainment"}
+{"sample_id": "sample_00352", "text": "Good features but the interface is confusing and slow. Overall satisfied.", "label": "mixed", "domain": "entertainment"}
+{"sample_id": "sample_00353", "text": "Customer support was unresponsive for over a week. Will recommend to friends.", "label": "negative", "domain": "healthcare"}
+{"sample_id": "sample_00354", "text": "The update broke everything. I'm switching to a competitor. Not sure what to think.", "label": "negative", "domain": "technology"}
+{"sample_id": "sample_00355", "text": "Received the item on time. Standard packaging, standard quality. Overall satisfied.", "label": "neutral", "domain": "sports"}
+{"sample_id": "sample_00356", "text": "Brilliant design and intuitive user experience throughout. Would use again.", "label": "positive", "domain": "healthcare"}
+{"sample_id": "sample_00357", "text": "The product exceeded all my expectations — highly recommended. Will recommend to friends.", "label": "positive", "domain": "entertainment"}
+{"sample_id": "sample_00358", "text": "Good features but the interface is confusing and slow. Would use again.", "label": "mixed", "domain": "technology"}
+{"sample_id": "sample_00359", "text": "Brilliant design and intuitive user experience throughout. Not sure what to think.", "label": "positive", "domain": "technology"}
+{"sample_id": "sample_00360", "text": "Completely unusable — filled with bugs and missing features. Disappointed.", "label": "negative", "domain": "sports"}
+{"sample_id": "sample_00361", "text": "Love the concept but execution needs serious improvement. Will recommend to friends.", "label": "mixed", "domain": "sports"}
+{"sample_id": "sample_00362", "text": "The product exceeded all my expectations — highly recommended. Disappointed.", "label": "positive", "domain": "entertainment"}
+{"sample_id": "sample_00363", "text": "Great customer service, they resolved my issue in minutes.", "label": "positive", "domain": "sports"}
+{"sample_id": "sample_00364", "text": "Absolutely loved the new update! Performance is incredible. Would use again.", "label": "positive", "domain": "technology"}
+{"sample_id": "sample_00365", "text": "Average performance. It does what it says on the tin. Will recommend to friends.", "label": "neutral", "domain": "technology"}
+{"sample_id": "sample_00366", "text": "Customer support was unresponsive for over a week. Disappointed.", "label": "negative", "domain": "healthcare"}
+{"sample_id": "sample_00367", "text": "Great customer service, they resolved my issue in minutes. Not sure what to think.", "label": "positive", "domain": "entertainment"}
+{"sample_id": "sample_00368", "text": "It's an okay solution. Neither impressive nor disappointing. Not sure what to think.", "label": "neutral", "domain": "healthcare"}
+{"sample_id": "sample_00369", "text": "The service meets basic requirements but doesn't stand out. Disappointed.", "label": "neutral", "domain": "entertainment"}
+{"sample_id": "sample_00370", "text": "Received the item on time. Standard packaging, standard quality. Not sure what to think.", "label": "neutral", "domain": "technology"}
+{"sample_id": "sample_00371", "text": "Some things work great, others are frustratingly broken. Disappointed.", "label": "mixed", "domain": "healthcare"}
+{"sample_id": "sample_00372", "text": "Good features but the interface is confusing and slow. Overall satisfied.", "label": "mixed", "domain": "entertainment"}
+{"sample_id": "sample_00373", "text": "The service meets basic requirements but doesn't stand out. Not sure what to think.", "label": "neutral", "domain": "healthcare"}
+{"sample_id": "sample_00374", "text": "The service meets basic requirements but doesn't stand out. Will recommend to friends.", "label": "neutral", "domain": "healthcare"}
+{"sample_id": "sample_00375", "text": "It's an okay solution. Neither impressive nor disappointing. Will recommend to friends.", "label": "neutral", "domain": "technology"}
+{"sample_id": "sample_00376", "text": "Brilliant design and intuitive user experience throughout. Would use again.", "label": "positive", "domain": "entertainment"}
+{"sample_id": "sample_00377", "text": "Completely unusable — filled with bugs and missing features. Needs work.", "label": "negative", "domain": "entertainment"}
+{"sample_id": "sample_00378", "text": "Some things work great, others are frustratingly broken. Disappointed.", "label": "mixed", "domain": "healthcare"}
+{"sample_id": "sample_00379", "text": "Worst purchase I've made. Quality is far below what was advertised. Will recommend to friends.", "label": "negative", "domain": "finance"}
+{"sample_id": "sample_00380", "text": "Absolutely loved the new update! Performance is incredible. Overall satisfied.", "label": "positive", "domain": "healthcare"}
+{"sample_id": "sample_00381", "text": "Great customer service, they resolved my issue in minutes. Would use again.", "label": "positive", "domain": "technology"}
+{"sample_id": "sample_00382", "text": "It's an okay solution. Neither impressive nor disappointing. Disappointed.", "label": "neutral", "domain": "entertainment"}
+{"sample_id": "sample_00383", "text": "Average performance. It does what it says on the tin. Would use again.", "label": "neutral", "domain": "sports"}
+{"sample_id": "sample_00384", "text": "The product exceeded all my expectations — highly recommended. Disappointed.", "label": "positive", "domain": "finance"}
+{"sample_id": "sample_00385", "text": "Absolutely loved the new update! Performance is incredible. Disappointed.", "label": "positive", "domain": "finance"}
+{"sample_id": "sample_00386", "text": "The product exceeded all my expectations — highly recommended. Needs work.", "label": "positive", "domain": "finance"}
+{"sample_id": "sample_00387", "text": "The product exceeded all my expectations — highly recommended.", "label": "positive", "domain": "finance"}
+{"sample_id": "sample_00388", "text": "Some things work great, others are frustratingly broken. Would use again.", "label": "mixed", "domain": "finance"}
+{"sample_id": "sample_00389", "text": "Absolutely loved the new update! Performance is incredible.", "label": "positive", "domain": "entertainment"}
+{"sample_id": "sample_00390", "text": "Average performance. It does what it says on the tin. Needs work.", "label": "neutral", "domain": "technology"}
+{"sample_id": "sample_00391", "text": "It's an okay solution. Neither impressive nor disappointing. Disappointed.", "label": "neutral", "domain": "finance"}
+{"sample_id": "sample_00392", "text": "Received the item on time. Standard packaging, standard quality. Needs work.", "label": "neutral", "domain": "entertainment"}
+{"sample_id": "sample_00393", "text": "Excellent core product hampered by poor documentation. Not sure what to think.", "label": "mixed", "domain": "sports"}
+{"sample_id": "sample_00394", "text": "Terrible experience. The app crashed repeatedly and lost my data. Needs work.", "label": "negative", "domain": "entertainment"}
+{"sample_id": "sample_00395", "text": "Great customer service, they resolved my issue in minutes. Needs work.", "label": "positive", "domain": "sports"}
+{"sample_id": "sample_00396", "text": "Completely unusable — filled with bugs and missing features. Overall satisfied.", "label": "negative", "domain": "entertainment"}
+{"sample_id": "sample_00397", "text": "Love the concept but execution needs serious improvement. Will recommend to friends.", "label": "mixed", "domain": "entertainment"}
+{"sample_id": "sample_00398", "text": "Love the concept but execution needs serious improvement.", "label": "mixed", "domain": "sports"}
+{"sample_id": "sample_00399", "text": "Excellent core product hampered by poor documentation. Will recommend to friends.", "label": "mixed", "domain": "healthcare"}
+{"sample_id": "sample_00400", "text": "Good features but the interface is confusing and slow.", "label": "mixed", "domain": "sports"}
+{"sample_id": "sample_00401", "text": "The service meets basic requirements but doesn't stand out. Overall satisfied.", "label": "neutral", "domain": "healthcare"}
+{"sample_id": "sample_00402", "text": "The service meets basic requirements but doesn't stand out. Will recommend to friends.", "label": "neutral", "domain": "entertainment"}
+{"sample_id": "sample_00403", "text": "The product exceeded all my expectations — highly recommended. Not sure what to think.", "label": "positive", "domain": "technology"}
+{"sample_id": "sample_00404", "text": "Good features but the interface is confusing and slow. Not sure what to think.", "label": "mixed", "domain": "entertainment"}
+{"sample_id": "sample_00405", "text": "The product works as described. Nothing special, nothing bad. Will recommend to friends.", "label": "neutral", "domain": "sports"}
+{"sample_id": "sample_00406", "text": "Worst purchase I've made. Quality is far below what was advertised.", "label": "negative", "domain": "entertainment"}
+{"sample_id": "sample_00407", "text": "The update broke everything. I'm switching to a competitor. Would use again.", "label": "negative", "domain": "healthcare"}
+{"sample_id": "sample_00408", "text": "Fast shipping but the item quality was lower than expected. Disappointed.", "label": "mixed", "domain": "healthcare"}
+{"sample_id": "sample_00409", "text": "Fast shipping but the item quality was lower than expected. Disappointed.", "label": "mixed", "domain": "entertainment"}
+{"sample_id": "sample_00410", "text": "Customer support was unresponsive for over a week. Would use again.", "label": "negative", "domain": "entertainment"}
+{"sample_id": "sample_00411", "text": "The update broke everything. I'm switching to a competitor. Overall satisfied.", "label": "negative", "domain": "technology"}
+{"sample_id": "sample_00412", "text": "Fast shipping but the item quality was lower than expected. Not sure what to think.", "label": "mixed", "domain": "sports"}
+{"sample_id": "sample_00413", "text": "Average performance. It does what it says on the tin. Not sure what to think.", "label": "neutral", "domain": "technology"}
+{"sample_id": "sample_00414", "text": "It's an okay solution. Neither impressive nor disappointing.", "label": "neutral", "domain": "entertainment"}
+{"sample_id": "sample_00415", "text": "The update broke everything. I'm switching to a competitor. Will recommend to friends.", "label": "negative", "domain": "technology"}
+{"sample_id": "sample_00416", "text": "The service meets basic requirements but doesn't stand out.", "label": "neutral", "domain": "finance"}
+{"sample_id": "sample_00417", "text": "The service meets basic requirements but doesn't stand out. Overall satisfied.", "label": "neutral", "domain": "entertainment"}
+{"sample_id": "sample_00418", "text": "Customer support was unresponsive for over a week. Disappointed.", "label": "negative", "domain": "entertainment"}
+{"sample_id": "sample_00419", "text": "The product exceeded all my expectations — highly recommended. Needs work.", "label": "positive", "domain": "healthcare"}
+{"sample_id": "sample_00420", "text": "The product works as described. Nothing special, nothing bad. Will recommend to friends.", "label": "neutral", "domain": "technology"}
+{"sample_id": "sample_00421", "text": "The product exceeded all my expectations — highly recommended. Would use again.", "label": "positive", "domain": "healthcare"}
+{"sample_id": "sample_00422", "text": "Absolutely loved the new update! Performance is incredible. Disappointed.", "label": "positive", "domain": "technology"}
+{"sample_id": "sample_00423", "text": "It's an okay solution. Neither impressive nor disappointing. Will recommend to friends.", "label": "neutral", "domain": "finance"}
+{"sample_id": "sample_00424", "text": "Excellent core product hampered by poor documentation.", "label": "mixed", "domain": "technology"}
+{"sample_id": "sample_00425", "text": "Great customer service, they resolved my issue in minutes. Disappointed.", "label": "positive", "domain": "healthcare"}
+{"sample_id": "sample_00426", "text": "Good features but the interface is confusing and slow. Disappointed.", "label": "mixed", "domain": "healthcare"}
+{"sample_id": "sample_00427", "text": "Completely unusable — filled with bugs and missing features. Needs work.", "label": "negative", "domain": "sports"}
+{"sample_id": "sample_00428", "text": "This is hands down the best tool I've used this year.", "label": "positive", "domain": "entertainment"}
+{"sample_id": "sample_00429", "text": "The product exceeded all my expectations — highly recommended. Will recommend to friends.", "label": "positive", "domain": "sports"}
+{"sample_id": "sample_00430", "text": "Fast shipping but the item quality was lower than expected. Not sure what to think.", "label": "mixed", "domain": "healthcare"}
+{"sample_id": "sample_00431", "text": "Terrible experience. The app crashed repeatedly and lost my data.", "label": "negative", "domain": "finance"}
+{"sample_id": "sample_00432", "text": "Average performance. It does what it says on the tin. Needs work.", "label": "neutral", "domain": "entertainment"}
+{"sample_id": "sample_00433", "text": "This is hands down the best tool I've used this year. Needs work.", "label": "positive", "domain": "entertainment"}
+{"sample_id": "sample_00434", "text": "Customer support was unresponsive for over a week.", "label": "negative", "domain": "technology"}
+{"sample_id": "sample_00435", "text": "The service meets basic requirements but doesn't stand out. Would use again.", "label": "neutral", "domain": "entertainment"}
+{"sample_id": "sample_00436", "text": "Some things work great, others are frustratingly broken. Will recommend to friends.", "label": "mixed", "domain": "technology"}
+{"sample_id": "sample_00437", "text": "Fast shipping but the item quality was lower than expected.", "label": "mixed", "domain": "healthcare"}
+{"sample_id": "sample_00438", "text": "The product works as described. Nothing special, nothing bad. Disappointed.", "label": "neutral", "domain": "finance"}
+{"sample_id": "sample_00439", "text": "Terrible experience. The app crashed repeatedly and lost my data. Overall satisfied.", "label": "negative", "domain": "technology"}
+{"sample_id": "sample_00440", "text": "Average performance. It does what it says on the tin. Needs work.", "label": "neutral", "domain": "entertainment"}
+{"sample_id": "sample_00441", "text": "The update broke everything. I'm switching to a competitor. Would use again.", "label": "negative", "domain": "sports"}
+{"sample_id": "sample_00442", "text": "The product works as described. Nothing special, nothing bad. Would use again.", "label": "neutral", "domain": "sports"}
+{"sample_id": "sample_00443", "text": "Excellent core product hampered by poor documentation. Needs work.", "label": "mixed", "domain": "finance"}
+{"sample_id": "sample_00444", "text": "Worst purchase I've made. Quality is far below what was advertised. Disappointed.", "label": "negative", "domain": "sports"}
+{"sample_id": "sample_00445", "text": "Some things work great, others are frustratingly broken. Will recommend to friends.", "label": "mixed", "domain": "technology"}
+{"sample_id": "sample_00446", "text": "Customer support was unresponsive for over a week.", "label": "negative", "domain": "entertainment"}
+{"sample_id": "sample_00447", "text": "Worst purchase I've made. Quality is far below what was advertised. Will recommend to friends.", "label": "negative", "domain": "technology"}
+{"sample_id": "sample_00448", "text": "Good features but the interface is confusing and slow. Would use again.", "label": "mixed", "domain": "finance"}
+{"sample_id": "sample_00449", "text": "Great customer service, they resolved my issue in minutes. Not sure what to think.", "label": "positive", "domain": "healthcare"}
+{"sample_id": "sample_00450", "text": "Great customer service, they resolved my issue in minutes. Needs work.", "label": "positive", "domain": "entertainment"}
+{"sample_id": "sample_00451", "text": "The update broke everything. I'm switching to a competitor. Disappointed.", "label": "negative", "domain": "entertainment"}
+{"sample_id": "sample_00452", "text": "Worst purchase I've made. Quality is far below what was advertised. Needs work.", "label": "negative", "domain": "healthcare"}
+{"sample_id": "sample_00453", "text": "Great customer service, they resolved my issue in minutes. Needs work.", "label": "positive", "domain": "entertainment"}
+{"sample_id": "sample_00454", "text": "Brilliant design and intuitive user experience throughout. Overall satisfied.", "label": "positive", "domain": "sports"}
+{"sample_id": "sample_00455", "text": "Some things work great, others are frustratingly broken. Overall satisfied.", "label": "mixed", "domain": "entertainment"}
+{"sample_id": "sample_00456", "text": "The service meets basic requirements but doesn't stand out. Overall satisfied.", "label": "neutral", "domain": "sports"}
+{"sample_id": "sample_00457", "text": "Brilliant design and intuitive user experience throughout. Disappointed.", "label": "positive", "domain": "healthcare"}
+{"sample_id": "sample_00458", "text": "Received the item on time. Standard packaging, standard quality. Will recommend to friends.", "label": "neutral", "domain": "entertainment"}
+{"sample_id": "sample_00459", "text": "Fast shipping but the item quality was lower than expected. Will recommend to friends.", "label": "mixed", "domain": "entertainment"}
+{"sample_id": "sample_00460", "text": "It's an okay solution. Neither impressive nor disappointing. Disappointed.", "label": "neutral", "domain": "healthcare"}
+{"sample_id": "sample_00461", "text": "Great customer service, they resolved my issue in minutes. Overall satisfied.", "label": "positive", "domain": "sports"}
+{"sample_id": "sample_00462", "text": "Good features but the interface is confusing and slow. Will recommend to friends.", "label": "mixed", "domain": "finance"}
+{"sample_id": "sample_00463", "text": "This is hands down the best tool I've used this year.", "label": "positive", "domain": "sports"}
+{"sample_id": "sample_00464", "text": "Great customer service, they resolved my issue in minutes. Disappointed.", "label": "positive", "domain": "sports"}
+{"sample_id": "sample_00465", "text": "The update broke everything. I'm switching to a competitor. Would use again.", "label": "negative", "domain": "finance"}
+{"sample_id": "sample_00466", "text": "It's an okay solution. Neither impressive nor disappointing. Needs work.", "label": "neutral", "domain": "entertainment"}
+{"sample_id": "sample_00467", "text": "Received the item on time. Standard packaging, standard quality. Will recommend to friends.", "label": "neutral", "domain": "technology"}
+{"sample_id": "sample_00468", "text": "Worst purchase I've made. Quality is far below what was advertised. Overall satisfied.", "label": "negative", "domain": "finance"}
+{"sample_id": "sample_00469", "text": "It's an okay solution. Neither impressive nor disappointing. Needs work.", "label": "neutral", "domain": "entertainment"}
+{"sample_id": "sample_00470", "text": "Brilliant design and intuitive user experience throughout.", "label": "positive", "domain": "technology"}
+{"sample_id": "sample_00471", "text": "The service meets basic requirements but doesn't stand out. Overall satisfied.", "label": "neutral", "domain": "finance"}
+{"sample_id": "sample_00472", "text": "This is hands down the best tool I've used this year. Would use again.", "label": "positive", "domain": "sports"}
+{"sample_id": "sample_00473", "text": "Worst purchase I've made. Quality is far below what was advertised. Disappointed.", "label": "negative", "domain": "healthcare"}
+{"sample_id": "sample_00474", "text": "Average performance. It does what it says on the tin. Will recommend to friends.", "label": "neutral", "domain": "finance"}
+{"sample_id": "sample_00475", "text": "Brilliant design and intuitive user experience throughout. Not sure what to think.", "label": "positive", "domain": "entertainment"}
+{"sample_id": "sample_00476", "text": "The update broke everything. I'm switching to a competitor. Not sure what to think.", "label": "negative", "domain": "sports"}
+{"sample_id": "sample_00477", "text": "This is hands down the best tool I've used this year. Not sure what to think.", "label": "positive", "domain": "sports"}
+{"sample_id": "sample_00478", "text": "The product works as described. Nothing special, nothing bad.", "label": "neutral", "domain": "healthcare"}
+{"sample_id": "sample_00479", "text": "Completely unusable — filled with bugs and missing features. Needs work.", "label": "negative", "domain": "entertainment"}
+{"sample_id": "sample_00480", "text": "It's an okay solution. Neither impressive nor disappointing. Not sure what to think.", "label": "neutral", "domain": "sports"}
+{"sample_id": "sample_00481", "text": "Average performance. It does what it says on the tin. Overall satisfied.", "label": "neutral", "domain": "sports"}
+{"sample_id": "sample_00482", "text": "Excellent core product hampered by poor documentation. Would use again.", "label": "mixed", "domain": "entertainment"}
+{"sample_id": "sample_00483", "text": "Brilliant design and intuitive user experience throughout.", "label": "positive", "domain": "healthcare"}
+{"sample_id": "sample_00484", "text": "Received the item on time. Standard packaging, standard quality. Overall satisfied.", "label": "neutral", "domain": "entertainment"}
+{"sample_id": "sample_00485", "text": "The update broke everything. I'm switching to a competitor. Overall satisfied.", "label": "negative", "domain": "entertainment"}
+{"sample_id": "sample_00486", "text": "Good features but the interface is confusing and slow. Needs work.", "label": "mixed", "domain": "entertainment"}
+{"sample_id": "sample_00487", "text": "Fast shipping but the item quality was lower than expected. Overall satisfied.", "label": "mixed", "domain": "sports"}
+{"sample_id": "sample_00488", "text": "Received the item on time. Standard packaging, standard quality. Overall satisfied.", "label": "neutral", "domain": "sports"}
+{"sample_id": "sample_00489", "text": "Excellent core product hampered by poor documentation. Would use again.", "label": "mixed", "domain": "healthcare"}
+{"sample_id": "sample_00490", "text": "Great customer service, they resolved my issue in minutes. Would use again.", "label": "positive", "domain": "sports"}
+{"sample_id": "sample_00491", "text": "The product exceeded all my expectations — highly recommended. Overall satisfied.", "label": "positive", "domain": "healthcare"}
+{"sample_id": "sample_00492", "text": "Love the concept but execution needs serious improvement. Would use again.", "label": "mixed", "domain": "entertainment"}
+{"sample_id": "sample_00493", "text": "The service meets basic requirements but doesn't stand out. Needs work.", "label": "neutral", "domain": "healthcare"}
+{"sample_id": "sample_00494", "text": "Fast shipping but the item quality was lower than expected. Disappointed.", "label": "mixed", "domain": "entertainment"}
+{"sample_id": "sample_00495", "text": "Some things work great, others are frustratingly broken. Would use again.", "label": "mixed", "domain": "technology"}
+{"sample_id": "sample_00496", "text": "Brilliant design and intuitive user experience throughout. Will recommend to friends.", "label": "positive", "domain": "sports"}
+{"sample_id": "sample_00497", "text": "Average performance. It does what it says on the tin. Needs work.", "label": "neutral", "domain": "entertainment"}
+{"sample_id": "sample_00498", "text": "Completely unusable — filled with bugs and missing features.", "label": "negative", "domain": "sports"}
+{"sample_id": "sample_00499", "text": "Received the item on time. Standard packaging, standard quality. Disappointed.", "label": "neutral", "domain": "entertainment"}

@@ -7,11 +7,15 @@ Simple: upload your files (or use sample data), click Run, see results.
 Launch:
     python app.py
     python app.py --port 7861 --share
+
+If 7860 is busy, the app picks the next free port unless you pass --strict-port.
 """
 
 import argparse
 import json
 import logging
+import os
+import socket
 import tempfile
 from pathlib import Path
 from typing import Dict, List
@@ -475,14 +479,42 @@ def create_app() -> gr.Blocks:
     return app
 
 
+def _find_free_port(start: int, max_attempts: int = 100) -> int:
+    """Return the first free TCP port in [start, start + max_attempts)."""
+    for port in range(start, start + max_attempts):
+        with socket.socket(socket.AF_INET, socket.SOCK_STREAM) as s:
+            try:
+                s.bind(("127.0.0.1", port))
+                return port
+            except OSError:
+                continue
+    raise OSError(
+        f"No free port found in range {start}–{start + max_attempts - 1}. "
+        "Close other apps using those ports or set GRADIO_SERVER_PORT."
+    )
+
+
 def main():
+    default_port = int(os.environ.get("GRADIO_SERVER_PORT", "7860"))
     parser = argparse.ArgumentParser(description="LLM Annotation Evaluation Dashboard")
-    parser.add_argument("--port", type=int, default=7860)
+    parser.add_argument("--port", type=int, default=default_port, help="Preferred port (default: 7860 or GRADIO_SERVER_PORT)")
+    parser.add_argument(
+        "--strict-port",
+        action="store_true",
+        help="Fail if the preferred port is busy (default: try next free port)",
+    )
     parser.add_argument("--share", action="store_true")
     args = parser.parse_args()
 
+    if args.strict_port:
+        server_port = args.port
+    else:
+        server_port = _find_free_port(args.port)
+        if server_port != args.port:
+            log.info("Port %s is in use; using %s instead.", args.port, server_port)
+
     app = create_app()
-    app.launch(server_port=args.port, share=args.share)
+    app.launch(server_port=server_port, share=args.share)
 
 
 if __name__ == "__main__":

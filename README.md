@@ -2,6 +2,34 @@
 
 Evaluate the quality of LLM-generated annotations against human-labelled baselines.
 
+## Screenshots
+
+Gradio dashboard (`python app.py`): configure data and models, run evaluation, and explore reports in the browser.
+
+### Main UI
+
+Pick **sample data** or **upload** your own, choose which model(s) to evaluate, toggle **Bootstrap**, **SHAP**, **calibration**, and **error analysis**, then **Run Evaluation**.
+
+![LLM Annotation Evaluator — main UI](docs/images/ui-main.png)
+
+### Metrics & explainability
+
+Per-model **confusion matrix**, **per-class F1**, **SHAP feature importance**, and **error-driving features** (with CV accuracy for the error predictor).
+
+![Confusion matrix, F1, SHAP, and error-driving features](docs/images/charts-dashboard.png)
+
+### Calibration & inter-model agreement
+
+**Reliability diagram** (calibration / ECE), **inter-LLM agreement** (Cohen’s κ heatmap), and **top error patterns** vs human labels.
+
+![Reliability diagram, inter-LLM agreement, and error patterns summary](docs/images/calibration-agreement.png)
+
+### Error patterns & examples
+
+**Top mismatch patterns** (`label_human` → `label_llm`) and **sample texts** for each pattern to debug systematic failures.
+
+![Error patterns table and JSON examples](docs/images/error-patterns.png)
+
 ## Features
 
 - **Classification metrics** — Precision, Recall, F1, Cohen's Kappa, Krippendorff's Alpha
@@ -22,11 +50,14 @@ pip install -r requirements.txt
 # 2. Generate sample data (500 synthetic samples)
 python generate_sample_data.py
 
-# 3. Run the evaluation
+# 3. Run the evaluation (CLI)
 python main.py --config config/eval_config.yaml
 
 # 4. View reports
 ls reports/
+
+# Optional: interactive Gradio dashboard (see Screenshots above)
+python app.py
 ```
 
 ## Project Structure
@@ -51,7 +82,9 @@ llm-annotation-eval/
 │   ├── visualizations.py         # Confusion matrices, bar charts, heatmaps
 │   └── trends.py                 # Multi-model version tracking
 ├── sample_data/                  # Generated test data
+├── docs/images/                  # README screenshots
 ├── main.py                       # CLI entrypoint
+├── app.py                        # Gradio dashboard
 ├── generate_sample_data.py       # Synthetic data generator
 └── requirements.txt
 ```
